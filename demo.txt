@@ -1,3 +1,5 @@
 gggggggThis for changes made after commiting
 change no 3
 this is another file after commiting gitProj file
+
+this is a log message for logging java file
